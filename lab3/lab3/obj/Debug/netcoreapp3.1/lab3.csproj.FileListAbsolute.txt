@@ -11,3 +11,16 @@ D:\3 семестр\ООП\Lab3\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.pdb
 D:\3 семестр\ООП\Lab3\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.dll
 D:\3 семестр\ООП\Lab3\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.pdb
 D:\3 семестр\ООП\Lab3\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.genruntimeconfig.cache
+C:\Users\Mi Air\Desktop\OOP\laba3\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.exe
+C:\Users\Mi Air\Desktop\OOP\laba3\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.deps.json
+C:\Users\Mi Air\Desktop\OOP\laba3\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.json
+C:\Users\Mi Air\Desktop\OOP\laba3\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.dev.json
+C:\Users\Mi Air\Desktop\OOP\laba3\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.dll
+C:\Users\Mi Air\Desktop\OOP\laba3\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.pdb
+C:\Users\Mi Air\Desktop\OOP\laba3\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csprojAssemblyReference.cache
+C:\Users\Mi Air\Desktop\OOP\laba3\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfoInputs.cache
+C:\Users\Mi Air\Desktop\OOP\laba3\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfo.cs
+C:\Users\Mi Air\Desktop\OOP\laba3\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Mi Air\Desktop\OOP\laba3\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.dll
+C:\Users\Mi Air\Desktop\OOP\laba3\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.pdb
+C:\Users\Mi Air\Desktop\OOP\laba3\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.genruntimeconfig.cache
